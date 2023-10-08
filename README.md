@@ -32,7 +32,7 @@ AWS Credentials:
 - Create a lambda function using python runtime
 ![image](https://github.com/Omkar0114/AWS-Cost-Optimization/assets/88308267/40c83d4c-5143-4b9e-9d1b-3324add51208)
 
-- Configure the python code in lambda code console. You can find code here - [python_code]()
+- Configure the python code in lambda code console. You can find code here - [python_code](https://github.com/Omkar0114/AWS-Cost-Optimization/blob/da7616c23914704521eaf824fa551cd1d18b22b2/code/optimization.py)
 ![image](https://github.com/Omkar0114/AWS-Cost-Optimization/assets/88308267/1281532c-6858-49cc-a005-626c74e4283e)
 
 - Configure the IAM roles and policies for lambda function execute access.
